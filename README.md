@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile where I have applications that I have built using a wide range of technologies such as: 
 
-Front End: React, Redux, Angular, HTML5, CSS3, jQuery
-Back End: Express, Koa, NodeJS, PostgreSQL, Sequelize, MongoDB, Mongoose, REST APIs
-Others: JavaScript(ES6), TypeScript, TDD/BDD, Jest, Cypress, JSON, Git, npm, JWT
+* Front End: React, Redux, Angular, HTML5, CSS3, jQuery
+* Back End: Express, Koa, NodeJS, PostgreSQL, Sequelize, MongoDB, Mongoose, REST APIs
+* Others: JavaScript(ES6), TypeScript, TDD/BDD, Jest, Cypress, JSON, Git, npm, JWT
 
 I throughly enjoy how the Software Development industry is continuously changing which excites me as it intertwines with my enjoyment for continuos learning. I am always learning and taking courses on new technologies and implementing them on the job and my personal applications. I have obtained a wide range of skills from my experiences both technical and non-technical.
 
